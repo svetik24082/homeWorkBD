@@ -169,7 +169,6 @@ WHERE age = (
     ########################
     Домашнее задание N 3
 
-
     skypro=# CREATE TABLE city(
     skypro(# city_id BIGSERIAL NOT NULL PRIMARY KEY
     , skypro(# city_name VARCHAR (60)
